@@ -1,4 +1,4 @@
-module xk6-neo4j
+module github.com/patrick-janeiro/xk6-neo4j
 
 go 1.17
 
